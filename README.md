@@ -32,10 +32,10 @@ The goal of this project is to answer a simple business question:
 5. Exported dashboard-ready outputs for Tableau and created portfolio visuals
 
 ## Final Segments
-- VIP Loyalists — high spend, frequent purchases, recent activity
-- Core Customers — strong repeat buyers with solid revenue contribution
-- Promising New Customers — newer customers with room to grow
-- At-Risk Customers — older/lapsed customers with low recent engagement
+- VIP Loyalists: high spend, frequent purchases, recent activity
+- Core Customers: strong repeat buyers with solid revenue contribution
+- Promising New Customers: newer customers with room to grow
+- At-Risk Customers: older/lapsed customers with low recent engagement
 
 ## Key Findings
 - The dataset contains **4,338 customers** and **$6.94M** in total modeled revenue.
