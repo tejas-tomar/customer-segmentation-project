@@ -31,16 +31,23 @@ The goal of this project is to answer a simple business question:
 4. Interpreted clusters into business-friendly segment names
 5. Exported dashboard-ready outputs for Tableau and created portfolio visuals
 
+## Tableau Dashboard
+View the interactive dashboard:  
+(https://public.tableau.com/views/CustomerSegmentationDashboardRFMAnalysis_17763658008350/CustomerSegmentationDashboardRFMAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Dashboard Preview
+![Dashboard](visuals/Customer Segmentation Dashboard (RFM Analysis).png)
+
 ## Final Segments
-- VIP Loyalists: high spend, frequent purchases, recent activity
-- Core Customers: strong repeat buyers with solid revenue contribution
-- Promising New Customers: newer customers with room to grow
-- At-Risk Customers: older/lapsed customers with low recent engagement
+- VIP Customers: high spend, frequent purchases, recent activity  
+- Loyal Customers: consistent repeat buyers with strong revenue contribution  
+- Potential Customers: newer or low-spend customers with room to grow  
+- At-Risk Customers: customers with high recency and low recent engagement
 
 ## Key Findings
-- The dataset contains **4,338 customers** and **$6.94M** in total modeled revenue.
-- **VIP Loyalists** account for roughly **57.0% of total revenue** while representing only **17.0% of customers**.
-- **At-Risk Customers** make up the largest share of customers at **36.7%**, but contribute only **7.9% of revenue**.
-- **Core Customers** contribute about **28.8% of revenue**, making them the largest growth-retention opportunity after VIP customers.
-- The average modeled customer value is **$1,599**, and average recency is **93 days**.
+- The dataset contains 4,338 customers and ~$8.9M in total revenue.
+- Potential customers make up ~70% of the customer base but contribute less revenue per user.
+- Loyal customers contribute a significant portion of revenue despite a smaller share of customers.
+- VIP customers represent a very small portion of users but have the highest spending behavior.
+- At-Risk customers show high recency and low spending, indicating disengagement.
 
