@@ -35,9 +35,6 @@ The goal of this project is to answer a simple business question:
 View the interactive dashboard:  
 (https://public.tableau.com/views/CustomerSegmentationDashboardRFMAnalysis_17763658008350/CustomerSegmentationDashboardRFMAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Dashboard Preview
-![Dashboard](visuals/Customer Segmentation Dashboard (RFM Analysis).png)
-
 ## Final Segments
 - VIP Customers: high spend, frequent purchases, recent activity  
 - Loyal Customers: consistent repeat buyers with strong revenue contribution  
