@@ -4,14 +4,14 @@ An end-to-end analytics project that segments customers using **RFM analysis** (
 
 ---
 
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
 View the interactive dashboard:  
 https://public.tableau.com/views/CustomerSegmentationDashboardRFMAnalysis_17763658008350/CustomerSegmentationDashboardRFMAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 This project answers a key business question:
 
@@ -21,7 +21,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python** (pandas, NumPy)
 - **scikit-learn** (K-means clustering)
@@ -31,7 +31,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** Online Retail transactional dataset  
 - **File:** `data/raw/Online Retail.xlsx`  
@@ -39,7 +39,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Cleaning
 - Removed missing customer IDs  
@@ -67,7 +67,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## 👥 Final Customer Segments
+## Final Customer Segments
 
 - **VIP Customers:** high spend, frequent purchases, recent activity  
 - **Loyal Customers:** consistent repeat buyers with strong revenue contribution  
@@ -76,7 +76,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - The dataset includes **4,338 customers** and **~$8.9M in total revenue**  
 - **Potential customers** represent ~70% of the customer base but have low average spend  
@@ -86,7 +86,7 @@ The goal is to move from raw transaction data → customer segments → business
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 This analysis enables companies to:
 
@@ -97,7 +97,7 @@ This analysis enables companies to:
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - Built a full pipeline from raw data → clustering → dashboard  
 - Combined **machine learning + business interpretation**  
